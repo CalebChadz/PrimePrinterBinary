@@ -1,5 +1,6 @@
 # Ignore compiled Java class files
 *.class
+.gitignore
 
 # Ignore build output directories
 bin/
