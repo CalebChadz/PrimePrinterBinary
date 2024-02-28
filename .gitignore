@@ -1,6 +1,5 @@
 # Ignore compiled Java class files
 *.class
-.gitignore
 
 # Ignore build output directories
 bin/
@@ -22,3 +21,6 @@ Thumbs.db
 # Ignore any sensitive or confidential information (e.g., API keys)
 /config.properties
 /secrets.txt
+
+# Ignore the .gitignore file itself
+.gitignore
